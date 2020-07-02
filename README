@@ -1,0 +1,32 @@
+------------------------------------------------------------
+* Project 5: Library Manager
+* Database (2020 Spring)
+* Zhejiang University
+* Lecturer: Sun Jianling
+
+* Change log: $Date: 2020/04/08$
+* Changed by: $Author: Diao Zhongpu$
+------------------------------------------------------------
+
+REPOSITORY STRUCTURE
+
+ - README: this file
+
+ - src: Java project source code
+
+ - batchFileExample: files used to verify batch input function
+         |
+         +- bookinput
+         |
+         +- cardinput
+         |
+         +- borrowinput
+
+
+-------------------------------------------------------------
+
+HOW TO BUILD THE PACKAGE
+
+Folder src contain Eclipse Java project, should complied with MySQL Connect/J as External Jar.
+
+To connect local MySQL server, the Username and Password in .java file should be changed accordingly.
